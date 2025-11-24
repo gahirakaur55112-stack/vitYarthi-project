@@ -1,1 +1,2 @@
 # vitYarthi-project
+Colleges often get many questions regarding location, admissions, placements, and specific contact details from aspirants. To handle such basic questions, we can use the help of a Chabot rather than hiring someone to answer these basic questions about the institute. The problem is to automate the handling of these common queries using a robust, text-based interface to improve efficiency and provide 24/7 availability of information.
